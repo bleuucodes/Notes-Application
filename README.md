@@ -13,4 +13,4 @@ A minimalist, browser-based Notes app built using *HTML, **CSS, and **Vanilla Ja
 ## Tech Stack
 
 - *Frontend:* HTML, CSS
-- *Logic:* Vanilla JavaScript
+- *Logic:* VANILLA JavaScript
